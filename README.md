@@ -1,2 +1,2 @@
-# Thank you
-Hello! I am a programmer on the internet like. 
+this program allows use to hack internet password in a simple way.
+
